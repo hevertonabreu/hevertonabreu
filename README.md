@@ -21,14 +21,15 @@
 
 <div align="center">
   <a href="https://github.com/hevertonabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevertonabreu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonabreu&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevertonabreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonabreu&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!-- Theme Options 🎨 merko/tokyonight  https://github.com/anuraghazra/github-readme-stats -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Verton-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Verton-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img aligh="center" alt="Verton-C"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </div>
 <!-- website with Language Icons to Add💡https://devicon.dev/ -->
 <!-- website with Icons 💡 https://emojipedia.org/search/?q=bag -->
