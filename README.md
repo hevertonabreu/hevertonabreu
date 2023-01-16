@@ -21,12 +21,13 @@
 
 <div align="center">
   <a href="https://github.com/hevertonabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevertonabreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonabreu&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevertonabreu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonabreu&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <!-- Theme Options 🎨 merko/tokyonight  https://github.com/anuraghazra/github-readme-stats -->
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Verton-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Verton-slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
   <img align="center" alt="Verton-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
   <img align="center" alt="Verton-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
