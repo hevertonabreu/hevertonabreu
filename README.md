@@ -25,6 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonabreu&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!-- Theme Options 🎨 merko/tokyonight  https://github.com/anuraghazra/github-readme-stats -->
+<!-- Em caso de erro: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Verton-slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
